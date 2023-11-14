@@ -24,3 +24,6 @@
 
 ### 🐱‍💻 우수 과제 선발
 - w2. 서울 종합병원 분포 확인하기
+
+### 👍 수료증
+![CERTIFICATE_OF_COMPLETION](https://github.com/ha0zzero/coaching_study_data_science_13th/assets/82139017/96ab0d7a-bc86-425a-9f0e-be3b220e4d75)
